@@ -4,14 +4,5 @@
   "artist": "Shika, Momiji",
   "author": "Fukuda, Shuuto ",
   "cover": "https://i.imgur.com/8efOk1n.jpeg",
-  "chapters": {
-    "2": {
-      "title": "2",
-      "volume": "",
-      "last_updated": "1753043838",
-      "groups": {
-        "darkblade1990": "/proxy/api/imgur/chapter/EuRI0SP"
-      }
-    }
-  }
+  "chapters": {}
 }
