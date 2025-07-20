@@ -6,11 +6,11 @@
   "cover": "https://i.imgur.com/8efOk1n.jpeg",
   "chapters": {
     "1": {
-      "title": "ch.1 ",
+      "title": "chapter 1",
       "volume": "",
-      "last_updated": "1753042274",
+      "last_updated": "1753042607",
       "groups": {
-        "Darkblade1990": "/proxy/api/imgur/chapter/ZY6pYLO"
+        "darkblade1990": "/proxy/api/imgur/chapter/ZY6pYLO"
       }
     }
   }
