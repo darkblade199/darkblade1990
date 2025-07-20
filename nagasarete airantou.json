@@ -4,5 +4,14 @@
   "artist": "Fujishiro Takeshi",
   "author": "Fujishiro Takeshi",
   "cover": "<blockquote class=\"imgur-embed-pub\" lang=\"en\" data-id=\"RpAzrTB\"><a href=\"https://imgur.com/RpAzrTB\">View post on imgur.com</a></blockquote><script async src=\"//s.imgur.com/min/embed.js\" charset=\"utf-8\"></script>",
-  "chapters": {}
+  "chapters": {
+    "193": {
+      "title": "230",
+      "volume": "37",
+      "last_updated": "1753036624",
+      "groups": {
+        "darkblade1990": "/proxy/api/imgur/chapter/3xtyktp"
+      }
+    }
+  }
 }
