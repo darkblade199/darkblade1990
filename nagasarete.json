@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "233": {
+      "title": "chapter 233",
+      "volume": "",
+      "last_updated": "1754753738",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/41MTvIj"
+      }
+    }
+  }
 }
